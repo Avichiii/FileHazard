@@ -1,4 +1,4 @@
-#input form the user
+#input from the user
 virusText = input("Enter a String :) : ")
 
 #this function will create a file
